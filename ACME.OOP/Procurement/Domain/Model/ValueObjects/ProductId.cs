@@ -13,9 +13,7 @@ namespace ACME.OOP.Procurement.Domain.Model.ValueObjects
         public ProductId(Guid id)
         {
             if (id == Guid.Empty)
-            {
                 throw new ArgumentException("ProductId cannot be an empty GUID.", nameof(id));
-            }
 
             Id = id;
         }

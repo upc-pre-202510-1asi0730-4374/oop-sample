@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\repos-upc\\1ASI0730-2510-4374\\oop-sample\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB12028E-393C-489A-9AC7-2BBB551F29E3}|oop-sample.csproj|c:\\repos-upc\\1asi0730-2510-4374\\oop-sample\\acme.oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB12028E-393C-489A-9AC7-2BBB551F29E3}|oop-sample.csproj|solutionrelative:acme.oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB12028E-393C-489A-9AC7-2BBB551F29E3}|oop-sample.csproj|c:\\repos-upc\\1asi0730-2510-4374\\oop-sample\\acme.oop\\procurement\\domain\\model\\aggregates\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB12028E-393C-489A-9AC7-2BBB551F29E3}|oop-sample.csproj|solutionrelative:acme.oop\\procurement\\domain\\model\\aggregates\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\repos-upc\\1ASI0730-2510-4374\\oop-sample\\ACME.OOP\\Procurement\\Domain\\Model\\Aggregates\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "ACME.OOP\\Procurement\\Domain\\Model\\Aggregates\\PurchaseOrder.cs",
+              "ToolTip": "C:\\repos-upc\\1ASI0730-2510-4374\\oop-sample\\ACME.OOP\\Procurement\\Domain\\Model\\Aggregates\\PurchaseOrder.cs",
+              "RelativeToolTip": "ACME.OOP\\Procurement\\Domain\\Model\\Aggregates\\PurchaseOrder.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:56:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos-upc\\1ASI0730-2510-4374\\oop-sample\\ACME.OOP\\Program.cs",
+              "RelativeDocumentMoniker": "ACME.OOP\\Program.cs",
+              "ToolTip": "C:\\repos-upc\\1ASI0730-2510-4374\\oop-sample\\ACME.OOP\\Program.cs*",
+              "RelativeToolTip": "ACME.OOP\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:50:56.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -14,7 +14,7 @@ namespace ACME.OOP.Shared.Domain.Model.ValueObjects
         public Money(decimal amount, string currency)
         {
             if (string.IsNullOrWhiteSpace(currency) || currency.Length != 3)
-                throw new ArgumentException("Currency must be a valid 3-letter code.", currency);
+                throw new ArgumentException("Currency must be a valid 3-letter code.", nameof(currency));
 
             Amount = amount;
             Currency = currency;
